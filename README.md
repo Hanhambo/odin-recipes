@@ -2,5 +2,5 @@
 Hi ,my name is Hanning Chen.
 I want to learn about front-end coding.
 and improve my english level
-hoping I can persist to the end 
-especially that I run into somthing very hard for me
+wish I can persist to the end 
+especially when I run into something very hard for me.
